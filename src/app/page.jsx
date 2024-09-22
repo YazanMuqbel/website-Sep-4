@@ -11,6 +11,8 @@ function MainComponent() {
         alt="Circular profile image of Yazan Muqbel"
         className="w-[150px] h-[150px] rounded-full mb-4"
       />
+      
+      <iframe src="https://yazanmuqbel.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
       <p className="text-lg mb-6 text-center">
         Building my CV on the Internet through writing about my thoughts,
